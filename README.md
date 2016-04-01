@@ -1,2 +1,2 @@
 # InstaSwift
-iOS Swift Instagram SDK
+iOS Swift Instagram API Wrapper
